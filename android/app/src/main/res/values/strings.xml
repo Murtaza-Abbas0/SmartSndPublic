@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SnD_FMCG</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAUYSsK02RFef01aRFlCLBLIczH2OcxAQY</string>
+</resources>
